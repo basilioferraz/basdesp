@@ -1,5 +1,0 @@
-routes:
-  home:
-    pattern: /
-    method: [ 'get' ]
-    controller: 'Skel\Controller\Index::index'
